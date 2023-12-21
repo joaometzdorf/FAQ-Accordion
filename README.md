@@ -12,6 +12,10 @@ Construir o FAQ Accordion o mais próximo possível do design fornecido.
 
 ![](./faq-accordion.png)
 
+### Links
+
+- [Site](https://faq-accordion-self.vercel.app/)  
+
 ## Meu processo
 
 ### Construído com
